@@ -6,4 +6,4 @@ This is an chrome extension which helps you export all your Quora bookmarks.
 
 ### Support or Contact
 
-<email@talk2harishmukkara@gmail.com>
+Mail me to talk2harishmukkara@gmail.com
