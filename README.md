@@ -4,6 +4,12 @@ Ardent follower of Quora? You learn & unlearn on Quora? You have lot of good con
 
 This is an chrome extension which helps you export all your Quora bookmarks.
 
+
 ### Support or Contact
 
 Mail me to [talk2harishmukkara@gmail.com](mailto:talk2harishmukkara@gmail.com)
+
+### Raise an Issue
+
+You can [raise a issue][https://github.com/harish-mukkara/quork/issues/new] right in this repository. This way, you can keep others to engage in the same topic.
+
