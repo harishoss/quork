@@ -11,5 +11,5 @@ Mail me to [talk2harishmukkara@gmail.com](mailto:talk2harishmukkara@gmail.com)
 
 ### Raise an Issue
 
-You can [raise a issue][https://github.com/harish-mukkara/quork/issues/new] right in this repository. This way, you can keep others to engage in the same topic.
+You can [raise a issue](https://github.com/harish-mukkara/quork/issues/new) right in this repository. This way, you can keep others to engage in the same topic.
 
